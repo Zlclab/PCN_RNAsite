@@ -12,4 +12,3 @@ numpy 1.23.5
 scikit-learn 1.2.2
 pandas 3.1.0
 
-Kang Xiao: xiaokangneuq@163.com
