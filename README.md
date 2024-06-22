@@ -1,8 +1,4 @@
-
-### A computational method for small molecule-RNA binding sites identification by utilizing position specificity and complex network information.
-
-[https://doi.org/10.1016/j.biosystems.2023.105094](https://doi.org/10.1016/j.biosystems.2023.105094)
-
+L. Zhang, K. Xiao, L. Kong, "A computational method for small molecule-RNA binding sites identification by utilizing position specificity and complex network information" *BioSystems*, 2024; 235: 105094. [https://doi.org/10.1016/j.biosystems.2023.105094](https://doi.org/10.1016/j.biosystems.2023.105094)
 
 The  codes for PCN_RNAsite and an example from dataset CS71 are available in ./src. And the demo and corresponding documentation files can be found in ./demo. See our paper for more details.
 
